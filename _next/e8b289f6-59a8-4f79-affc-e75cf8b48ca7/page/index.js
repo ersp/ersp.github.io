@@ -1,0 +1,1 @@
+module.exports=__NEXT_REGISTER_PAGE("/",function(){return{page:webpackJsonp([2],{195:function(e,t,n){e.exports=n(196)},196:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var o=n(12),u=n.n(o);t.default=function(){return u.a.createElement("div",null,"Hello World! Welcome to next.js!")}}},[195]).default}});
